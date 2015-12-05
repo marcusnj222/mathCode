@@ -1,0 +1,84 @@
+
+Naive Algorithm
+Input: 10  |  Result: 55  |  Computation Time: 0.000003 seconds
+
+Memoization Algorithm
+Input: 10  |  Result: 55  |  Computation Time: 0.000001 seconds
+
+Tabulation Algorithm
+Input: 10  |  Result: 55  |  Computation Time: 0.000001 seconds
+
+
+
+Naive Algorithm
+Input: 20  |  Result: 6765  |  Computation Time: 0.000069 seconds
+
+Memoization Algorithm
+Input: 20  |  Result: 6765  |  Computation Time: 0.000001 seconds
+
+Tabulation Algorithm
+Input: 20  |  Result: 6765  |  Computation Time: 0.000001 seconds
+
+
+
+Naive Algorithm
+Input: 30  |  Result: 832040  |  Computation Time: 0.007566 seconds
+
+Memoization Algorithm
+Input: 30  |  Result: 832040  |  Computation Time: 0.000002 seconds
+
+Tabulation Algorithm
+Input: 30  |  Result: 832040  |  Computation Time: 0.000000 seconds
+
+
+
+Naive Algorithm
+Input: 40  |  Result: 102334155  |  Computation Time: 0.726110 seconds
+
+Memoization Algorithm
+Input: 40  |  Result: 102334155  |  Computation Time: 0.000001 seconds
+
+Tabulation Algorithm
+Input: 40  |  Result: 102334155  |  Computation Time: 0.000000 seconds
+
+
+
+Naive computation skipped to save time.
+
+Memoization Algorithm
+Input: 50  |  Result: 12586269025  |  Computation Time: 0.000002 seconds
+
+Tabulation Algorithm
+Input: 50  |  Result: 12586269025  |  Computation Time: 0.000000 seconds
+
+
+
+Naive computation skipped to save time.
+
+Memoization Algorithm
+Input: 60  |  Result: 1548008755920  |  Computation Time: 0.000001 seconds
+
+Tabulation Algorithm
+Input: 60  |  Result: 1548008755920  |  Computation Time: 0.000001 seconds
+
+
+
+Naive computation skipped to save time.
+
+Memoization Algorithm
+Input: 70  |  Result: 190392490709135  |  Computation Time: 0.000001 seconds
+
+Tabulation Algorithm
+Input: 70  |  Result: 190392490709135  |  Computation Time: 0.000001 seconds
+
+
+
+Naive computation skipped to save time.
+
+Memoization Algorithm
+Input: 80  |  Result: 23416728348467685  |  Computation Time: 0.000001 seconds
+
+Tabulation Algorithm
+Input: 80  |  Result: 23416728348467685  |  Computation Time: 0.000000 seconds
+
+
